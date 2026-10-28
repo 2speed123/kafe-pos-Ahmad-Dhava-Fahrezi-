@@ -8,7 +8,7 @@
 ## Instalasi (XAMPP)
 
 1. Pasang dan jalankan **XAMPP**, lalu aktifkan modul **Apache** dan **MySQL** pada XAMPP Control Panel.
-2. Salin folder `kafe-pos` ke `C:\xampp\htdocs\` (hasilnya `C:\xampp\htdocs\kafe-pos`).
+2. Salin folder `kafe-pos` ke `C:\xampp\htdocs\` (hasilnya `C:\xampp\htdocs\(Ahmad Dhava Fahrezi)`).
 3. Buka `http://localhost/phpmyadmin`, pilih tab **Import**, pilih file `database.sql`, lalu klik **Import**.
    Database `kafe_pos` beserta data awal akan dibuat otomatis.
 4. Jika MySQL Anda memakai password atau port berbeda, sesuaikan `includes/config.php`
